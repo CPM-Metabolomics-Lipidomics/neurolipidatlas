@@ -1,4 +1,4 @@
 experimentId,experimentTitle,genoType,cellType,parentCellLine,drugTreatment,sex,method,contributingLab,harvestDate
-XXX_xxxxxx_xx,Astrocyte ApoE variants3,"TREM2, E85K",Astrocyte,Bioni037-A,No FSB,Male,SLA,van der Kant lab,12/10/23
-XXX_xxxxxx_xx,Astrocyte ApoE variants2,"TREM2, E85K",Astrocyte,Bioni037-A,No FSB,Male,SLA,van der Kant lab,12/10/23
-XXX_xxxxxx_xx,Astrocyte ApoE variants1,"TREM2, E85K",Astrocyte,Bioni037-A,No FSB,Male,SLA,van der Kant lab,12/10/23
+VDK_230504_01,Astrocyte ApoE variants3,"TREM2, E85K",Astrocyte,Bioni037-A,No FSB,Male,SLA,van der Kant lab,12/10/23
+VDK_230912_01,Astrocyte ApoE variants2,"TREM2, E85K",Astrocyte,Bioni037-A,No FSB,Male,SLA,van der Kant lab,12/10/23
+VDK_220223_01,Astrocyte ApoE variants1,"TREM2, E85K",Astrocyte,Bioni037-A,No FSB,Male,SLA,van der Kant lab,12/10/23
