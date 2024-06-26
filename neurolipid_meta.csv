@@ -47,4 +47,4 @@
 "NLA_053","Human iPSC-derived neurons. C9 line 3 and isogenic Control line 3 (from Giblin et al.). First neuronal induction.","C9orf72 G4C2 repeat expansion, C9orf72 no repeat expansion","Neuron","KOLF2.1J","","Male","SLA","Isaacs","2023/03/08"
 "NLA_054","Human iPSC-derived neurons. C9 line 3 and isogenic Control line 3 (from Giblin et al.). Second neuronal induction.","C9orf72 G4C2 repeat expansion, C9orf72 no repeat expansion","Neuron","KOLF2.1J","","Male","SLA","Isaacs","2023/03/14"
 "NLA_055","Human iPSC-derived neurons. C9 line 3 and isogenic Control line 3 (from Giblin et al.). Third neuronal induction.","C9orf72 no repeat expansion, C9orf72 G4C2 repeat expansion","Neuron","KOLF2.1J","","Male","SLA","Isaacs","2023/03/30"
-"NLA_124","TMEM106B SS185 vs TT185 vs Null iNeurons (Rico lab)","CPM_WT, CPM_M1, CPM_M2","Neuron","CPM11","","Male","SLA","Ward","2022/08/14, 2022/08/08, 2022/08/11"
+"NLA_124","TMEM106B SS185 vs TT185 vs Null iNeurons (Rico lab)","TMEM106B SS185, TMEM106KB KO, TMEM 106B TT185","Neuron","CPM11","","Male","SLA","Ward","2022/08/14, 2022/08/08, 2022/08/11"
